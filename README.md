@@ -35,7 +35,7 @@ These projects are copyright 2022.
 
 Licensed under the **[MIT License][license]**; you may not use this software except in compliance with the License.
 
-[license]: https://github.com/christian-confalonieri/Robotics-Projects-ROS-2021-2022/blob/main/LICENSE
+[license]: https://github.com/christian-confalonieri/Odometry-Mapping-Localization-with-ROS/blob/main/LICENSE
 [license-image]: https://img.shields.io/badge/License-MIT-blue.svg
 [specification1-link]: https://github.com/christian-confalonieri/Robotics-Projects-ROS-2021-2022/blob/main/specification/project1.pdf
 [specification2-link]: https://github.com/christian-confalonieri/Robotics-Projects-ROS-2021-2022/blob/main/specification/project2.pdf
